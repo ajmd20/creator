@@ -1,0 +1,130 @@
+<div class="content list">
+<div class="content-wrap">
+<h4 class="h4-style  on-state"><a href="#" rel="list-detail-140229-19175-1779426-1" class="expand no-replace">Week 1 (June 15-19)</a></h4>
+<div id="list-detail-140229-19175-1779426-1" class="hide" style="display: none;">
+<div class="long-description">
+<ul>
+<li>BLOCK A (9:00-10:45)</li>
+<ul>
+<li style="margin-left: 40px;">Sewing</li>
+<li style="margin-left: 40px;">Cake Decorating</li>
+<li style="margin-left: 40px;">Woodworking</li>
+</ul>
+</ul>
+<ul>
+<li>BLOCK B (11:00-12:30)</li>
+<ul>
+<li style="margin-left: 40px;">Sewing</li>
+<li style="margin-left: 40px;">Cake Decorating</li>
+<li style="margin-left: 40px;">Leadership</li>
+</ul>
+</ul>
+</div>
+</div>
+<h4 class="h4-style  on-state"><a href="#" rel="list-detail-140229-19175-1779426-2" class="expand no-replace">Week 2 (June 22-26)</a></h4>
+<div id="list-detail-140229-19175-1779426-2" class="hide" style="display: none;">
+<div class="long-description">
+<ul>
+<li>BLOCK A (9:00-10:45)</li>
+<ul>
+<li style="margin-left: 40px;">Photography</li>
+<li style="margin-left: 40px;">Cake Decorating</li>
+<li style="margin-left: 40px;">Woodworking</li>
+</ul>
+</ul>
+<ul>
+<li>BLOCK B (11:00-12:30)</li>
+<ul>
+<li style="margin-left: 40px;">Photography</li>
+<li style="margin-left: 40px;">Cake Decorating</li>
+<li style="margin-left: 40px;">Maker Lab</li>
+</ul>
+</ul>
+</div>
+</div>
+<h4 class="h4-style  on-state"><a href="#" rel="list-detail-140229-19175-1779426-3" class="expand no-replace">Week 3 (June 29-July 2)</a></h4>
+<div id="list-detail-140229-19175-1779426-3" class="hide" style="display: none;">
+<div class="long-description">
+<ul>
+<li>BLOCK A (9:00-10:45)</li>
+<ul>
+<li style="margin-left: 40px;">Art Studio</li>
+<li style="margin-left: 40px;">Mindfulness &amp; Yoga</li>
+<li style="margin-left: 40px;">Woodworking</li>
+</ul>
+</ul>
+<ul>
+<li>BLOCK B (11:00-12:30)</li>
+<ul>
+<li style="margin-left: 40px;">Art Studio</li>
+<li style="margin-left: 40px;">Mindfulness &amp; Yoga</li>
+<li style="margin-left: 40px;">Maker Lab</li>
+</ul>
+</ul>
+</div>
+</div>
+<h4 class="h4-style  on-state"><a href="#" rel="list-detail-140229-19175-1779426-4" class="expand no-replace">Week 4 (July 6-10)</a></h4>
+<div id="list-detail-140229-19175-1779426-4" class="hide" style="display: none;">
+<div class="long-description">
+<ul>
+<li>BLOCK A (9:00-10:45)</li>
+<ul>
+<li style="margin-left: 40px;">Art Studio</li>
+<li style="margin-left: 40px;">Mindfulness &amp; Yoga</li>
+<li style="margin-left: 40px;">Woodworking</li>
+</ul>
+</ul>
+<ul>
+<li>BLOCK B (11:00-12:30)</li>
+<ul>
+<li style="margin-left: 40px;">Art Studio</li>
+<li style="margin-left: 40px;">Mindfulness &amp; Yoga</li>
+<li style="margin-left: 40px;">Leadership</li>
+</ul>
+</ul>
+</div>
+</div>
+<h4 class="h4-style  on-state"><a href="#" rel="list-detail-140229-19175-1779426-5" class="expand no-replace">Week 5 (July 13-17)</a></h4>
+<div id="list-detail-140229-19175-1779426-5" class="hide" style="display: none;">
+<div class="long-description">
+<ul>
+<li>BLOCK A (9:00-10:45)</li>
+<ul>
+<li style="margin-left: 40px;">Art Studio</li>
+<li style="margin-left: 40px;">Mindfulness &amp; Yoga</li>
+<li style="margin-left: 40px;">Maker Lab</li>
+</ul>
+</ul>
+<ul>
+<li>BLOCK B (11:00-12:30)</li>
+<ul>
+<li style="margin-left: 40px;">Art Studio</li>
+<li style="margin-left: 40px;">Mindfulness &amp; Yoga</li>
+<li style="margin-left: 40px;">Maker Lab</li>
+</ul>
+</ul>
+</div>
+</div>
+<h4 class="h4-style  on-state"><a href="#" rel="list-detail-140229-19175-1779426-6" class="expand no-replace">Week 6 (July 20-24)</a></h4>
+<div id="list-detail-140229-19175-1779426-6" class="hide" style="display: none;">
+<div class="long-description">
+<ul>
+<li>BLOCK A (9:00-10:45)</li>
+<ul>
+<li style="margin-left: 40px;">Art Studio</li>
+<li style="margin-left: 40px;">Mindfulness &amp; Yoga</li>
+<li style="margin-left: 40px;">Leadership</li>
+</ul>
+</ul>
+<ul>
+<li>BLOCK B (11:00-12:30)</li>
+<ul>
+<li style="margin-left: 40px;">Art Studio</li>
+<li style="margin-left: 40px;">Mindfulness &amp; Yoga</li>
+<li style="margin-left: 40px;">Leadership</li>
+</ul>
+</ul>
+</div>
+</div>
+</div>
+</div>
